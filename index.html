@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang='en' ng-app="Random">
+  <head>
+    <link rel='stylesheet' href='http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.2.1/css/bootstrap.min.css' />
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.0.2/angular.min.js'></script>
+    <script src='angular-resource.js'></script>
+    <script src='app.js'></script>
+  </head>
+  <body>
+    <div class='container-fluid' ng-controller="RandomController">
+      <div class='row-fluid'>
+        <div class='span3'>
+          <form class="form-horizontal">
+            <input type='text' ng-model='url' />
+            <select ng-model='chunk' ng-options='c for c in chunks'></select>
+            <br />
+            <input type='checkbox' ng-model='refresh'> refresh
+            <input type='checkbox' ng-model='debug'> debug
+            <button class="btn" ng-click="randomize()"><i class="icon-repeat"></i>random</button>
+          </form>
+          <pre>{{json}}</pre>
+        </div>
+        <div class='span9'>
+          <p class='lead'>{{random}}</p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

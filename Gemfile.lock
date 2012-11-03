@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    daemons (1.1.9)
+    eventmachine (1.0.0)
+    json (1.7.5)
+    literate_randomizer (0.4.0)
+    nokogiri (1.5.5)
+    rack (1.4.1)
+    thin (1.5.0)
+      daemons (>= 1.0.9)
+      eventmachine (>= 0.12.6)
+      rack (>= 1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  json
+  literate_randomizer
+  nokogiri
+  rack
+  thin
