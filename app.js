@@ -28,7 +28,7 @@ function RandomController($scope, $resource) {
     });
   };
 
-  $scope.cannedData = ['', 'dostoevsky', 'kafka', 'shakespeare'];
+  $scope.cannedData = ['', 'carroll', 'dickens', 'dostoevsky', 'freud', 'joyce', 'kafka', 'marx', 'proust', 'shakespeare'];
   $scope.canned = $scope.cannedData[0];
 
   $scope.chunks = ['word', 'sentence', 'paragraph', 'paragraphs'];
