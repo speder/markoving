@@ -11,15 +11,16 @@ class RandomApp
   URL = 'http://ia700305.us.archive.org/7/items/alicesadventures19002gut/19002-h/19002-h.htm'
 
   def self.create_randomizer(options = {})
-    if options['url']
+    if options['canned']
+      source_material = File.read("data/#{options['canned']}.txt")
+    elsif options['text']
+      source_material = options['text']
+    elsif options['url']
       html = open(options['url'])
       source_material = Nokogiri::HTML(html).text
-      LiterateRandomizer.create(:source_material => source_material)
-    elsif options['shakes']
-      LiterateRandomizer.create(:source_material => File.read('shakes.txt'))
-    else # poe!
-      LiterateRandomizer.create
     end
+
+    LiterateRandomizer.create(source_material ? { :source_material => source_material } : {})
   end
 
   def self.randomizer(options = {})

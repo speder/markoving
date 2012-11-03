@@ -8,8 +8,16 @@ function RandomController($scope, $resource) {
   $scope.randomize = function () {
     var options = {chunk: $scope.chunk};
 
-    if ($scope.url) options.url = $scope.url;
-    if ($scope.refresh) options.refresh = true;
+    if ($scope.refresh) {
+      options.refresh = true;
+      if ($scope.canned) {
+        options.canned = $scope.canned;
+      } else if ($scope.text) {
+        options.text = $scope.text;
+      } else if ($scope.url) {
+        options.url = $scope.url;
+      }
+    }
 
     $scope.refresh = false;
     $scope.json = '';
@@ -19,6 +27,9 @@ function RandomController($scope, $resource) {
       $scope.random = response.chunk;
     });
   };
+
+  $scope.cannedData = ['', 'dostoevsky', 'kafka', 'shakespeare'];
+  $scope.canned = $scope.cannedData[0];
 
   $scope.chunks = ['word', 'sentence', 'paragraph', 'paragraphs'];
   $scope.chunk = $scope.chunks[1];

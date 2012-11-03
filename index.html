@@ -9,19 +9,32 @@
   <body>
     <div class='container-fluid' ng-controller="RandomController">
       <div class='row-fluid'>
-        <div class='span3'>
+        <div class='span12'>
           <form class="form-horizontal">
-            <input type='text' ng-model='url' />
-            <select ng-model='chunk' ng-options='c for c in chunks'></select>
-            <br />
-            <input type='checkbox' ng-model='refresh'> refresh
-            <input type='checkbox' ng-model='debug'> debug
+            <div ng-show='refresh'>
+              <label>canned</label>
+              <select name='canned' ng-model='canned' ng-options='c for c in cannedData'></select>
+              <label>url</label>
+              <input type='text' ng-model='url' />
+              <label>text</label>
+              <textarea rows='4' ng-model='text'></textarea>
+            </div>
+            <label>chunk</label>
+            <select name='chunk' ng-model='chunk' ng-options='c for c in chunks'></select>
+            <label class='checkbox'><input type='checkbox' ng-model='refresh'>refresh</label>
+            <label class='checkbox'><input type='checkbox' ng-model='debug'>debug</label>
             <button class="btn" ng-click="randomize()"><i class="icon-repeat"></i>random</button>
           </form>
-          <pre>{{json}}</pre>
         </div>
-        <div class='span9'>
+      </div>
+      <div class='row-fluid'>
+        <div class='span12'>
           <p class='lead'>{{random}}</p>
+        </div>
+      </div>
+      <div class='row-fluid' ng-show='debug'>
+        <div class='span12'>
+          <pre>{{json}}</pre>
         </div>
       </div>
     </div>
