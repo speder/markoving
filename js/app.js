@@ -20,7 +20,7 @@ function MarkovController($scope, $resource) {
     $scope.random = '';
     $scope.json = '';
     $scope.busy = true;
-    
+
     resource.get(options, function(response) {
       if ($scope.debug) $scope.json = response;
       $scope.random = response.chunk;
@@ -32,20 +32,24 @@ function MarkovController($scope, $resource) {
   $scope.sourceType = function(source) {
     return $scope.init === source;
   }
-  
-  // TODO inject texts
-  $scope.texts = ['', 'apuleius', 'bible', 'burton', 'carroll', 'darwin', 'dickens', 'dostoevsky', 'fielding', 'freud', 'frazer', 'goethe', 'hobbes', 'homer', 'johnson', 'joyce', 'kafka', 'kamasutra', 'kipling', 'koran', 'lawrence', 'marx', 'machiavelli', 'melville', 'nietzsche', 'petronius', 'proust', 'shakespeare', 'swift', 'tao', 'tolstoy', 'twain', 'voltaire', 'whitman', 'wilde', 'yogananda'];
-  $scope.text = $scope.texts[0];
-  
-  $scope.inits = ['', 'text', 'paste', 'url'];
-  $scope.init = $scope.inits[0];
-  
-  $scope.chunks = ['word', 'sentence', 'paragraph', 'paragraphs'];
-  $scope.chunk = $scope.chunks[2];
-  
-  $scope.busy = false;
 
   $scope.local = function() {
     return window.location.hostname === 'localhost';
   }
+
+  // get list of local data files from server
+  resource.get({texts: true}, function(response) {
+    console.log(resource.texts);
+    $scope.texts = response.texts;
+    $scope.texts.unshift('');
+    $scope.text = $scope.texts[0];
+  });
+
+  $scope.inits = ['', 'text', 'paste', 'url'];
+  $scope.init = $scope.inits[0];
+
+  $scope.chunks = ['word', 'sentence', 'paragraph', 'paragraphs'];
+  $scope.chunk = $scope.chunks[2];
+
+  $scope.busy = false;
 }

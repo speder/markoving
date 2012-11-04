@@ -4,14 +4,14 @@ require 'open-uri'
 require 'nokogiri'
 
 class MarkovApp
-  METHODS = %w(word sentence paragraph paragraphs)
-
   def call(env)
     req = Rack::Request.new(env)
-    
-    data = text(req.params)
 
-    data = JSON.dump({ :chunk => data })
+    if req.params['texts']
+      data = JSON.dump({ :texts => texts })
+    else
+      data = JSON.dump({ :chunk => text(req.params) })
+    end
 
     if req.params['callback']
       data = "#{req.params['callback']}(#{data})"
@@ -25,7 +25,9 @@ class MarkovApp
     opts = {}
 
     if options['text']
-      opts[:source_material] = File.read("data/#{options['text']}.txt")
+      if texts.include?(options['text'])
+        opts[:source_material] = File.read("data/#{options['text']}.txt")
+      end
     elsif options['paste']
       opts[:source_material] = options['paste']
     elsif options['url']
@@ -41,8 +43,14 @@ class MarkovApp
     @generator ||= create_generator(options)
   end
 
+  CHUNKS = %w(word sentence paragraph paragraphs)
+
   def text(options = {})
-    method = METHODS.include?(options['chunk']) ? options['chunk'] : METHODS.first
+    method = CHUNKS.include?(options['chunk']) ? options['chunk'] : CHUNKS.first
     generator(options).send(method)
+  end
+
+  def texts
+    @texts ||= Dir.new('data').entries.select{ |e| e =~ /.txt$/ }.map{ |e| e.gsub(/.txt/, '') }.sort
   end
 end
