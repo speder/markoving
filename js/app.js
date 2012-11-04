@@ -1,8 +1,9 @@
 angular.module('Markov', ['ngResource']);
 
 function MarkovController($scope, $resource) {
-  var resource = $resource('http://localhost:port',
-      {port: ':3000', callback: 'JSON_CALLBACK'},
+  // TODO inject port
+  var resource = $resource('http://localhost:port/json',
+      {port: ':9292', callback: 'JSON_CALLBACK'},
       {get: {method: 'JSONP'}});
 
   $scope.randomize = function() {
@@ -33,6 +34,7 @@ function MarkovController($scope, $resource) {
     return $scope.init === source;
   }
   
+  // TODO inject texts
   $scope.texts = ['', 'apuleius', 'bible', 'burton', 'carroll', 'darwin', 'dickens', 'dostoevsky', 'fielding', 'freud', 'frazer', 'goethe', 'hobbes', 'homer', 'johnson', 'joyce', 'kafka', 'kamasutra', 'kipling', 'koran', 'lawrence', 'marx', 'machiavelli', 'melville', 'nietzsche', 'petronius', 'proust', 'shakespeare', 'swift', 'tao', 'tolstoy', 'twain', 'voltaire', 'whitman', 'wilde', 'yogananda'];
   $scope.text = $scope.texts[0];
   

@@ -2,14 +2,11 @@ require 'json'
 require 'literate_randomizer'
 require 'open-uri'
 require 'nokogiri'
-require 'rack'
-require 'rack/server'
-require 'thin'
 
 class MarkovApp
   METHODS = %w(word sentence paragraph paragraphs)
 
-  def self.create_randomizer(options = {})
+  def create_randomizer(options = {})
     opts = {}
 
     if options['text']
@@ -24,19 +21,19 @@ class MarkovApp
     LiterateRandomizer.create(opts)
   end
 
-  def self.randomizer(options = {})
-    @@randomizer = nil if options['source']
-    @@randomizer ||= create_randomizer(options)
+  def randomizer(options = {})
+    @randomizer = nil if options['source']
+    @randomizer ||= create_randomizer(options)
   end
 
-  def self.text(options = {})
+  def text(options = {})
     method = METHODS.include?(options['chunk']) ? options['chunk'] : METHODS.first
     randomizer(options).send(method)
   end
 
-  def self.call(env)
+  def call(env)
     req = Rack::Request.new(env)
-
+    
     data = text(req.params)
 
     if req.params['callback'] or req.params['json']
@@ -48,8 +45,6 @@ class MarkovApp
     end
 
     body = data.respond_to?(:each) ? data : [data]
-    [200, {'Content-type' => 'application/javascript; charset=utf-8'}, body]
+    [200, {'Content-Type' => 'application/javascript; charset=utf-8'}, body]
   end
 end
-
-Rack::Server.start :app => MarkovApp, :Port => 3000
