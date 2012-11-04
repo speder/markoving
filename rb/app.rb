@@ -7,7 +7,7 @@ class MarkovApp
   def call(env)
     req = Rack::Request.new(env)
 
-    if req.params['texts']
+    if req.params['texts'] # initialize list of texts
       data = JSON.dump({ :texts => texts })
     else
       data = JSON.dump({ :chunk => text(req.params) })
@@ -21,12 +21,17 @@ class MarkovApp
     [200, {'Content-Type' => 'application/javascript; charset=utf-8'}, body]
   end
 
+  # attempt to initialize random text generator with
+  #   1. specified text file
+  #   2. pasted text
+  #   3. url
+  #   or default
   def create_generator(options = {})
     opts = {}
 
     if options['text']
       if texts.include?(options['text'])
-        opts[:source_material] = File.read("data/#{options['text']}.txt")
+        opts[:source_material] = File.read("txt/#{options['text']}.txt")
       end
     elsif options['paste']
       opts[:source_material] = options['paste']
@@ -51,6 +56,6 @@ class MarkovApp
   end
 
   def texts
-    @texts ||= Dir.new('data').entries.select{ |e| e =~ /.txt$/ }.map{ |e| e.gsub(/.txt/, '') }.sort
+    @texts ||= Dir.new('txt').entries.select{ |e| e =~ /.txt$/ }.map{ |e| e.gsub(/.txt/, '') }.sort
   end
 end
