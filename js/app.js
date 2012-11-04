@@ -20,13 +20,15 @@ function MarkovController($scope, $resource) {
       }
     };
 
-    $scope.source = false;
     $scope.random = '';
     $scope.json = '';
-
+    $scope.busy = true;
+    
     resource.get(options, function(response) {
       if ($scope.debug) $scope.json = response;
       $scope.random = response.chunk;
+      $scope.busy = false;
+      $scope.source = false;
     });
   };
 
@@ -43,4 +45,6 @@ function MarkovController($scope, $resource) {
   
   $scope.chunks = ['word', 'sentence', 'paragraph', 'paragraphs'];
   $scope.chunk = $scope.chunks[2];
+  
+  $scope.busy = false;
 }

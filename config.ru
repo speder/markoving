@@ -1,6 +1,6 @@
 require ::File.expand_path('../rb/app',  __FILE__)
 
-use Rack::Static, :urls => ['/css/', '/favicon.ico', '/js/']
+use Rack::Static, :urls => ['/css/', '/favicon.ico', '/img/', '/js/']
 
 map '/json' do
   run MarkovApp.new
