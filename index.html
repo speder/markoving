@@ -11,19 +11,22 @@
       <div class='row-fluid'>
         <div class='span12'>
           <form class="form-horizontal">
-            <div ng-show='refresh'>
-              <label>canned</label>
-              <select name='canned' ng-model='canned' ng-options='c for c in cannedData'></select>
-              <label>url</label>
-              <input type='text' ng-model='url' />
-              <label>text</label>
-              <textarea rows='4' ng-model='text'></textarea>
-            </div>
-            <label>chunk</label>
-            <select name='chunk' ng-model='chunk' ng-options='c for c in chunks'></select>
-            <label class='checkbox'><input type='checkbox' ng-model='refresh'>refresh</label>
+            <select ng-model='chunk' ng-options='o for o in chunks'></select>
+            <button class="btn" ng-click="randomize()"><i class="icon-repeat"></i></button>
+            <label class='checkbox'><input type='checkbox' ng-model='source'>source</label>
+            <span ng-show='source'>
+              <select ng-model='init' ng-options='o for o in inits'></select>
+              <span ng-show="sourceType('text')">  
+                <select name='text' ng-model='text' ng-options='o for o in texts'></select>
+              </span>
+              <span ng-show="sourceType('paste')">  
+                <textarea rows='4' ng-model='text'></textarea>
+              </span>
+              <span ng-show="sourceType('url')">  
+                <input type='paste' ng-model='url' />
+              </span>
+            </span>
             <label class='checkbox'><input type='checkbox' ng-model='debug'>debug</label>
-            <button class="btn" ng-click="randomize()"><i class="icon-repeat"></i>random</button>
           </form>
         </div>
       </div>

@@ -8,23 +8,24 @@ require 'thin'
 
 class RandomApp
   METHODS = %w(word sentence paragraph paragraphs)
-  URL = 'http://ia700305.us.archive.org/7/items/alicesadventures19002gut/19002-h/19002-h.htm'
 
   def self.create_randomizer(options = {})
-    if options['canned']
-      source_material = File.read("data/#{options['canned']}.txt")
-    elsif options['text']
-      source_material = options['text']
+    opts = {}
+
+    if options['text']
+      opts[:source_material] = File.read("data/#{options['text']}.txt")
+    elsif options['paste']
+      opts[:source_material] = options['paste']
     elsif options['url']
       html = open(options['url'])
-      source_material = Nokogiri::HTML(html).text
+      opts[:source_material] = Nokogiri::HTML(html).text
     end
 
-    LiterateRandomizer.create(source_material ? { :source_material => source_material } : {})
+    LiterateRandomizer.create(opts)
   end
 
   def self.randomizer(options = {})
-    @@randomizer = nil if options['refresh']
+    @@randomizer = nil if options['source']
     @@randomizer ||= create_randomizer(options)
   end
 
@@ -46,12 +47,8 @@ class RandomApp
       data = "#{req.params['callback']}(#{data})"
     end
 
-    #res = Rack::Response.new
-    #res.status = 200
-    #res['Content-type'] = 'application/javascript; charset=utf-8'
-    #res.body = data.respond_to?(:each) ? data : [data]
-    #res.finish
-    [200, {'Content-type' => 'application/javascript; charset=utf-8'}, data.respond_to?(:each) ? data : [data]]
+    body = data.respond_to?(:each) ? data : [data]
+    [200, {'Content-type' => 'application/javascript; charset=utf-8'}, body]
   end
 end
 
