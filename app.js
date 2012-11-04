@@ -1,6 +1,6 @@
-angular.module('Random', ['ngResource']);
+angular.module('Markov', ['ngResource']);
 
-function RandomController($scope, $resource) {
+function MarkovController($scope, $resource) {
   var resource = $resource('http://localhost:port',
       {port: ':3000', callback: 'JSON_CALLBACK'},
       {get: {method: 'JSONP'}});
@@ -41,5 +41,4 @@ function RandomController($scope, $resource) {
   
   $scope.chunks = ['word', 'sentence', 'paragraph', 'paragraphs'];
   $scope.chunk = $scope.chunks[2];
-  
 }

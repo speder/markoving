@@ -6,7 +6,7 @@ require 'rack'
 require 'rack/server'
 require 'thin'
 
-class RandomApp
+class MarkovApp
   METHODS = %w(word sentence paragraph paragraphs)
 
   def self.create_randomizer(options = {})
@@ -52,4 +52,4 @@ class RandomApp
   end
 end
 
-Rack::Server.start :app => RandomApp, :Port => 3000
+Rack::Server.start :app => MarkovApp, :Port => 3000
