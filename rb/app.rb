@@ -6,7 +6,22 @@ require 'nokogiri'
 class MarkovApp
   METHODS = %w(word sentence paragraph paragraphs)
 
-  def create_randomizer(options = {})
+  def call(env)
+    req = Rack::Request.new(env)
+    
+    data = text(req.params)
+
+    data = JSON.dump({ :chunk => data })
+
+    if req.params['callback']
+      data = "#{req.params['callback']}(#{data})"
+    end
+
+    body = data.respond_to?(:each) ? data : [data]
+    [200, {'Content-Type' => 'application/javascript; charset=utf-8'}, body]
+  end
+
+  def create_generator(options = {})
     opts = {}
 
     if options['text']
@@ -21,30 +36,13 @@ class MarkovApp
     LiterateRandomizer.create(opts)
   end
 
-  def randomizer(options = {})
-    @randomizer = nil if options['source']
-    @randomizer ||= create_randomizer(options)
+  def generator(options = {})
+    @generator = nil if options['source']
+    @generator ||= create_generator(options)
   end
 
   def text(options = {})
     method = METHODS.include?(options['chunk']) ? options['chunk'] : METHODS.first
-    randomizer(options).send(method)
-  end
-
-  def call(env)
-    req = Rack::Request.new(env)
-    
-    data = text(req.params)
-
-    if req.params['callback'] or req.params['json']
-      data = JSON.dump({ :chunk => data })
-    end
-
-    if req.params['callback']
-      data = "#{req.params['callback']}(#{data})"
-    end
-
-    body = data.respond_to?(:each) ? data : [data]
-    [200, {'Content-Type' => 'application/javascript; charset=utf-8'}, body]
+    generator(options).send(method)
   end
 end

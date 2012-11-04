@@ -1,10 +1,7 @@
 angular.module('Markov', ['ngResource']);
 
 function MarkovController($scope, $resource) {
-  // TODO inject port
-  var resource = $resource('http://localhost:port/json',
-      {port: ':9292', callback: 'JSON_CALLBACK'},
-      {get: {method: 'JSONP'}});
+  var resource = $resource('/json');
 
   $scope.randomize = function() {
     var options = {chunk: $scope.chunk};
@@ -47,4 +44,8 @@ function MarkovController($scope, $resource) {
   $scope.chunk = $scope.chunks[2];
   
   $scope.busy = false;
+
+  $scope.local = function() {
+    return window.location.hostname === 'localhost';
+  }
 }
