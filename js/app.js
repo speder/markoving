@@ -22,7 +22,6 @@ function MarkovController($scope, $resource) {
     $scope.busy = true;
 
     resource.get(options, function(response) {
-      if ($scope.debug) $scope.json = response;
       $scope.random = response.chunk;
       $scope.busy = false;
       $scope.source = false;
@@ -31,10 +30,6 @@ function MarkovController($scope, $resource) {
 
   $scope.sourceType = function(source) {
     return $scope.init === source;
-  }
-
-  $scope.local = function() {
-    return window.location.hostname === 'localhost';
   }
 
   // get list of local data files from server

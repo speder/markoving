@@ -1,50 +1,43 @@
 <!doctype html>
-<html lang='en' ng-app="Markov">
+<html lang='en' ng-app='Markov'>
   <head>
     <link rel='stylesheet' href='http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.2.1/css/bootstrap.min.css' />
     <link rel='stylesheet' href='css/app.css' />
     <script src='http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.0.2/angular.min.js'></script>
     <script src='js/lib/angular-resource.js'></script>
     <script src='js/app.js'></script>
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel='shortcut icon' href='/favicon.ico' type='image/x-icon'>
+    <link rel='icon' href='/favicon.ico' type='image/x-icon'>
   </head>
-  <body>
-    <div class='container-fluid' ng-controller="MarkovController">
+  <body class='markov'>
+    <div class='container-fluid' ng-controller='MarkovController'>
       <div class='row-fluid'>
         <div class='span12'>
-          <!--form class='form-horizontal'-->
-          <select ng-model='chunk' ng-options='o for o in chunks' ng-disabled='busy'></select>
-          <button class='btn' ng-click='randomize()' ng-disabled='busy'><i class='icon-repeat'></i></button>
-          <label class='checkbox'><input type='checkbox' ng-model='source' ng-disabled='busy'>source</label>
-          <span ng-show='source'>
-            <select ng-model='init' ng-options='o for o in inits' ng-disabled='busy'></select>
-            <span ng-show="sourceType('text')">  
-              <select name='text' ng-model='text' ng-options='o for o in texts' ng-disabled='busy'></select>
-            </span>
-            <span ng-show="sourceType('paste')">  
-              <textarea rows='4' ng-model='text' ng-disabled='busy'></textarea>
-            </span>
-            <span ng-show="sourceType('url')">  
-              <input type='paste' ng-model='url' ng-disabled='busy' />
-            </span>
-          </span>
-          <!--/form-->
-        </div>
-      </div>
-      <div class='row-fluid'>
-        <div class='span12'>
+          <h3 class='pull-right muted'>m a r k o v</h3>
           <p class='lead'>{{random}}</p>
           <span ng-show='busy'><img src='img/progress.gif' /></span>
         </div>
       </div>
       <div class='row-fluid'>
-        <span class='span1' ng-show='local()'>
-          <label class='checkbox'><input type='checkbox' ng-model='debug' ng-disabled='busy'>debug</label>
-        </span>
-        <span class='span11' ng-show='debug'>
-          <pre>{{json}}</pre>
-        </span>
+        <div class='span12'>
+          <form class='form-horizontal'>
+            <select ng-model='chunk' ng-options='o for o in chunks' ng-disabled='busy'></select>
+            <button class='btn' ng-click='randomize()' ng-disabled='busy'><i class='icon-repeat'></i></button>
+            <label class='checkbox'><input type='checkbox' ng-model='source' ng-disabled='busy'>source</label>
+            <span ng-show='source'>
+              <select ng-model='init' ng-options='o for o in inits' ng-disabled='busy'></select>
+              <span ng-show="sourceType('text')">  
+                <select name='text' ng-model='text' ng-options='o for o in texts' ng-disabled='busy'></select>
+              </span>
+              <span ng-show="sourceType('paste')">  
+                <textarea rows='4' ng-model='text' ng-disabled='busy'></textarea>
+              </span>
+              <span ng-show="sourceType('url')">  
+                <input type='paste' ng-model='url' ng-disabled='busy' />
+              </span>
+            </span>
+          </form>
+        </div>
       </div>
     </div>
   </body>
