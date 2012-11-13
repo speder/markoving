@@ -1010,7 +1010,6 @@ in the east, and of the two great empires which divided that part of the world
 between them, at the time of Mohammed's setting up for a prophet, and what
 were the conducive circumstances and accidents that favoured his success.
 _______
-SECTION II.
 OF THE STATE OF CHRISTIANITY, PARTICULARLY OF THE EASTERN
      CHURCHES, AND OF JUDAISM, AT THE TIME OF MOHAMMED'S
      APPEARANCE; AND OF THE METHODS TAKEN BY HIM FOR THE
@@ -1805,7 +1804,6 @@ Becr.  And the Arabs being then united in one faith and under one prince,
 found themselves in a condition of making those conquests which extended
 the Mohammedan faith over so great a part of the world.
 ______
-SECTION III
 OF THE KORAN ITSELF, THE PECULIARITIES OF THAT BOOK; THE MANNER OF
        ITS BEING WRITTEN AND PUBLISHED, AND THE GENERAL DESIGN OF IT.
 THE word Koran, derived from the verb karaa, to read, signifies properly in
@@ -2251,7 +2249,6 @@ scriptures translated not only into the Persian tongue, but into several
 others, particularly the Javan and Malayan, though out of respect to the
 original Arabic, these versions are generally (if not always) intermediary.
 ______
-SECTION IV.
 OF THE DOCTRINES AND POSITIVE PRECEPTS OF THE KORAN, WHICH
            RELATE TO FAITH AND RELIGIOUS DUTIES.
 IT has been already observed more than once, that the fundamental position
@@ -3950,7 +3947,6 @@ find GOD himself had the same condescendence for the Jews, whose hardness
 of heart he humoured in many things, giving them therefore statutes that
 were not good, and judgments whereby they should not live.
 _______
-SECTION V.
 OF CERTAIN NEGATIVE PRECEPTS IN THE KORAN.
 HAVING in the preceeding section spoken of the fundamental points of the
 Mohammedan religion, relating both to faith and to practice, I shall in this
@@ -4259,7 +4255,6 @@ but the same being of less moment, and not particularly mentioned in the
 Koran, or having been occasionally taken notice of elsewhere, I shall say
 nothing of them in this place.
 ______
-SECTION VI.
 OF THE INSTITUTIONS OF THE KORAN IN CIVIL AFFAIRS.
 THE Mohammedan civil law is founded on the precepts and determinations of
 the Koran, as the civil laws of the Jews were on those of the Pentateuch;
@@ -4712,7 +4707,6 @@ are applied to public and pious uses, and distributed once a year, and that the
 prince may either take the fifth part of the land itself, or the fifth part of
 the income and produce of the whole, as he shall make his election.
 _______
-SECTION VII.
 OF THE MONTHS COMMANDED BY THE KORAN TO BE KEPT SACRED; AND
       OF THE SETTING APART OF FRIDAY FOR THE ESPECIAL SERVICE OF
       GOD.
@@ -4825,7 +4819,6 @@ notice of by the generality of people, who are not struck therewith, because
 the ceremonies with which the same is observed are performed at Mecca,
 the only scene of that solemnity.
 _______
-SECTION VIII.
 OF THE PRINCIPAL SECTS AMONG THE MOHAMMEDANS; AND OF THOSE
      WHO HAVE PRETENDED TO PROPHECY AMONG THE ARABS, IN OR
      SINCE THE TIME OF MOHAMMED.
@@ -5960,7 +5953,6 @@ time tired as well as myself, and shall therefore here conclude this
 discourse, which may be thought already too long for an introduction.
 AL KORAN.
 ________
-CHAPTER I.
 ENTITLED, THE PREFACE, OR INTRODUCTION; REVEALED AT MECCA.
      IN THE NAME OF THE MOST MERCIFUL GOD
      PRAISE be to GOD, the LORD of all creatures;
@@ -5971,7 +5963,6 @@ ENTITLED, THE PREFACE, OR INTRODUCTION; REVEALED AT MECCA.
      in the way of those to whom thou hast been gracious; not of those against
 whom thou art incensed, nor of those who go astray.
 ________
-CHAPTER II.
 ENTITLED, THE COW; REVEALED PARTLY AT MECCA, AND PARTLY AT MEDINA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      A.L.M.
@@ -7013,7 +7004,6 @@ us, O LORD, to bear what we have not strength to bear, but be favorable unto
 us, and spare us, and be merciful unto us.  Thou art our patron, help us
 therefore against the unbelieving nations.
 ________
-CHAPTER III.
 ENTITLED, THE FAMILY OF IMRAN; REVEALED AT MEDINA
 IN THE NAME OF THE MOST MERCIFUL GOD.
      A.L.M.
@@ -7629,7 +7619,6 @@ is swift in taking an account.
 200     O true believers, be patient and strive to excel in patience, and be
 constant-minded, and fear GOD, that ye may be happy.
 ________
-CHAPTER IV.
 ENTITLED, WOMEN; REVEALED AT MEDINA.
 IN THE NAME OF THE MOST MERCIFUL GOD
      O MEN, fear your LORD, who hath created you out of one man, and out of
@@ -8276,7 +8265,6 @@ parts of what he shall leave; and if there be several, both brothers and
 sisters, a male shall have as much as the portion of two females.  GOD
 declareth unto you these precepts, lest ye err: and GOD knoweth all things.
 ________
-CHAPTER V.
 ENTITLED, THE TABLE; REVEALED AT MEDINA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      O TRUE believers, perform your contracts.  Ye are allowed to eat the
@@ -8758,7 +8746,6 @@ well pleased in him.  This shall be great felicity.
 120     Unto GOD belongeth the kingdom of heaven and of earth, and of whatever
 therein is; and he is almighty.
 ________
-CHAPTER VI.
 ENTITLED, CATTLE; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      PRAISE be unto GOD, who hath created the heavens and the earth, and hath
@@ -9320,7 +9307,6 @@ earth, and hath raised some of you above others by various degrees of worldly
 advantages, that he might prove you by that which he hath bestowed on you.
 Thy LORD is swift in punishing; and he is also gracious and merciful.
 ________
-CHAPTER VII.
 ENTITLED, AL ARAF; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      A.L.M.S.
@@ -9972,7 +9958,6 @@ without loud speaking, evening and morning; and be not one of the negligent.
      Moreover the angels who are with my LORD do not proudly disdain his
 service, but they celebrate his praise and worship him.
 ________
-CHAPTER VIII.
 ENTITLED, THE SPOILS; REVEALED AT MEDINA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      THEY will ask thee concerning the spoils: Answer, The division of the
@@ -10211,7 +10196,6 @@ fought with you, these also are of you.  And those who are related by
 consanguinity shall be deemed the nearest of kin to each other preferably to
 strangers according to the book of GOD; GOD knoweth all things.
 ________
-CHAPTER IX.
 ENTITLED, THE DECLARATION OF IMMUNITY; REVEALED AT MEDINA.
      A DECLARATION of immunity from GOD and his apostle, unto the idolaters,
 with whom ye have entered into league.
@@ -10679,7 +10663,6 @@ you, and compassionate and merciful towards the believers.
      If they turn back, say, GOD is my support: there is no GOD but he.  On
 him do I trust; and he is the LORD of the magnificent throne.
 ________
-CHAPTER X.
 ENTITLED, JONAS; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      A.L.R.  These are the signs of the wise book.
@@ -11015,7 +10998,6 @@ over you.
      Do thou, O prophet, follow that which is revealed unto thee: and
 persevere with patience, until GOD shall judge; for he is the best judge.
 ________
-CHAPTER XI.
 ENTITLED, HUD; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      A.L.R.  THIS book, the verses whereof are guarded against corruption,
@@ -11390,7 +11372,6 @@ surely will act according to our duty:
 shall the whole matter be referred.  Therefore worship him, and put thy trust
 in him; for thy LORD is not regardless of that which ye do.
 ________
-CHAPTER XII.
 ENTITLED, JOSEPH; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      A.L.R.  These are the signs of the perspicuous book;
@@ -11740,7 +11721,6 @@ have been revealed before it, and a distinct explication of everything
 necessary in respect either to faith or practice, and a direction and mercy
 unto people who believe.
 ________
-CHAPTER XIII.
 ENTITLED, THUNDER; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      A.L.M.R.  These are the signs of the book of the Koran: and that which
@@ -11899,7 +11879,6 @@ paradise.
 sufficient witness between me and you, and he who understandeth the
 scriptures.
 ________
-CHAPTER XIV.
 ENTITLED, ABRAHAM; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      A.L.R.  This book have we sent down unto thee, that thou mayest lead men
@@ -12069,7 +12048,6 @@ GOD is swift in taking an account.
 thereby, and that they may know that there is but one GOD; and that those who
 are endued with understanding may consider.
 ________
-CHAPTER XV.
 ENTITLED, AL HEJR; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      A.L.R.  These are the signs of the book, and of the perspicuous Koran.
@@ -12231,7 +12209,6 @@ which they say;
 worship;
      and serve thy LORD until death shall overtake thee.
 ________
-CHAPTER XVI.
 ENTITLED, THE BEE; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      THE sentence of GOD will surely come to be executed; wherefore do not
@@ -12608,7 +12585,6 @@ account of the unbelievers; neither be thou troubled for that which they
 subtilely devise;
      for GOD is with those who fear him, and are upright.
 ________
-CHAPTER XVII.
 ENTITLED, THE NIGHT JOURNEY; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      PRAISE be unto him who transported his servant by night, from the sacred
@@ -12934,7 +12910,6 @@ but follow a middle way between these:
 partner in the kingdom, nor hath any to protect him from contempt: and magnify
 him by proclaiming his greatness.
 ________
-CHAPTER XVIII.
 ENTITLED, THE CAVE; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      PRAISE be unto GOD, who hath sent down unto his servant the book of the
@@ -13256,7 +13231,6 @@ GOD is one only GOD: let him therefore who hopeth to meet his LORD work a
 righteous work; and let him not make any other to partake in the worship of
 his LORD.
 ________
-CHAPTER XIX.
 ENTITLED, MARY; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      C.H.Y.A.S.
@@ -13470,7 +13444,6 @@ threats unto contentious people.
 one of them remaining?  Or dost thou hear so much as a whisper concerning
 them?
 ________
-CHAPTER XX.
 ENTITLED, T.H.; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      T.H.
@@ -13778,7 +13751,6 @@ we were humbled and covered with shame?
 hereafter who have been the followers of the even way, and who hath been
 rightly directed.
 ________
-CHAPTER XXI.
 ENTITLED, THE PROPHETS; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      THE time of giving up their account draweth nigh unto the people of
@@ -14036,7 +14008,6 @@ you; and that he may enjoy the prosperity of this world for a time.
 the Merciful; whose assistance is to be implored against the blasphemies and
 calumnies which ye utter.
 ________
-CHAPTER XXII.
 ENTITLED, THE PILGRIMAGE; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      O MEN of Mecca, fear your LORD.  Verily the shock of the last hour will
@@ -14282,7 +14253,6 @@ against the rest of mankind.  Wherefore be ye constant at prayer; and give
 alms: and adhere firmly unto GOD.  He is your master; and he is the best
 master, and the best protector.
 ________
-CHAPTER XXIII.
 ENTITLED, THE TRUE BELIEVERS; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      NOW are the true believers happy:
@@ -14515,7 +14485,6 @@ for the same before his LORD.  Verily the infidels shall not prosper.
      Say, O LORD, pardon, and show mercy; for thou art the best of those who
 show mercy.
 ________
-CHAPTER XXIV.
 ENTITLED, LIGHT; REVEALED AT MEDINA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      THIS Sura have we sent down from heaven; and have ratified the same; and
@@ -14754,7 +14723,6 @@ knoweth what ye are about: and on a certain day they shall be assembled before
 him; and he shall declare unto them that which they have done; for GOD knoweth
 all things.
 ________
-CHAPTER XXV.
 ENTITLED, AL FORKAN; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      BLESSED be he who hath revealed the Forkan unto his servant, that he may
@@ -14945,7 +14913,6 @@ and a delightful station.
 ye have already charged his apostle with imposture; but hereafter shall there
 be a lasting punishment inflicted on you.
 ________
-CHAPTER XXVI.
 ENTITLED, THE POETS; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      T.S.M.
@@ -15258,7 +15225,6 @@ valley;
 and who defend themselves, after they have been unjustly treated.  And they
 who act unjustly shall know hereafter with what treatment they shall be treated.
 ________
-CHAPTER XXVII.
 ENTITLED, THE ANT; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      T.S.  THESE are the signs of the Koran, and of the perspicuous book:
@@ -15498,7 +15464,6 @@ directed to his own advantage;
 Praise be unto GOD! he will show you his signs, and ye shall know them: and
 thy LORD is not regardless of that which they do.
 ________
-CHAPTER XXVIII.
 ENTITLED, THE STORY; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      T.S.M.
@@ -15780,7 +15745,6 @@ idolater;
 but he.  Everything shall perish, except himself: unto him belongeth judgment:
 and before him shall ye be assembled at the last day.
 ________
-CHAPTER XXIX.
 ENTITLED, THE SPIDER; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      A.L.M.
@@ -15973,7 +15937,6 @@ unbelievers?
      Whoever do their utmost endeavour to promote our true religion, we will
 direct them into our ways; for GOD is with the righteous.
 ________
-CHAPTER XXX.
 ENTITLED, THE GREEKS; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      A.L.M.
@@ -16140,7 +16103,6 @@ Ye are no other than publishers of vain falsehoods.
 60     But do thou, O Mohammed, persevere with constancy, for GOD is true; and
 let not those induce thee to waver, who have no certain knowledge.
 ________
-CHAPTER XXXI.
 ENTITLED, LOKMAN; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      A.L.M.
@@ -16241,7 +16203,6 @@ wombs of females.  No soul knoweth what it shall gain on the morrow; neither
 doth any soul know in what land it shall die; but GOD is knowing and fully
 acquainted with all things.
 ________
-CHAPTER XXXII.
 ENTITLED, ADORATION; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      A.L.M.
@@ -16323,7 +16284,6 @@ disbelieved shall not avail them; neither shall they be respited any longer.
 30     Wherefore avoid them, and expect the issue: verily they expect to obtain
 some advantage over thee.
 ________
-CHAPTER XXXIII.
 ENTITLED, THE CONFEDERATES; REVEALED AT MEDINA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      O PROPHET, fear GOD, and obey not the unbelievers and the hypocrites:
@@ -16562,7 +16522,6 @@ undertook it: verily he was unjust to himself, and foolish;
 the idolaters, and the idolatresses; and that GOD may be turned unto the true
 believers, both men and women; for GOD is gracious and merciful.
 ________
-CHAPTER XXXIV.
 ENTITLED, SABA; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      PRAISE be unto GOD, unto whom belongeth whatever is in the heavens and on
@@ -16735,7 +16694,6 @@ from a distant place?
 as it hath been done with those who behaved like them heretofore: because
 they have been in a doubt which hath caused scandal.
 ________
-CHAPTER XXXV.
 ENTITLED, THE CREATOR; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      PRAISE be unto GOD the Creator of heaven and earth; who maketh the angels
@@ -16885,7 +16843,6 @@ leave on the back of the earth so much as a beast: but he respiteth them to a
 determined time; and when their time shall come, verily GOD will regard his
 servants.
 ________
-CHAPTER XXXVI.
 ENTITLED, Y.S.; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      Y.S.
@@ -17057,7 +17014,6 @@ and it is.
      Wherefore praise be unto him, in whose hand is the kingdom of all things,
 and unto whom ye shall return at the last day.
 ________
-CHAPTER XXXVII.
 ENTITLED, THOSE WHO RANK THEMSELVES IN ORDER;
 REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
@@ -17301,7 +17257,6 @@ affirm of him!
      And peace be on his apostles!
      And praise be unto GOD, the LORD of all creatures!
 ________
-CHAPTER XXXVIII.
 ENTITLED, S.; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      S.   BY the Koran full of admonition.
@@ -17484,7 +17439,6 @@ neither am I one of those who assume a part which belongs not to them.
      and ye shall surely know what is delivered therein to be true, after a
 season.
 ________
-CHAPTER XXXIX.
 ENTITLED, THE TROOPS; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      THE revelation of this book is from the mighty, the wise GOD.
@@ -17713,7 +17667,6 @@ celebrating the praises of their LORD: and judgment shall be given between
 them with truth; and they shall say, Praise be unto GOD, the LORD of all
 creatures!
 ________
-CHAPTER XL.
 ENTITLED, THE TRUE BELIEVER; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      H.M.
@@ -17950,7 +17903,6 @@ and we renounce the idols which we associated with him:
 This was the ordinance of GOD, which was formerly observed in respect to his
 servants and then did the unbelievers perish.
 ________
-CHAPTER XLI.
 ENTITLED, ARE DISTINCTLY EXPLAINED; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      H.M.
@@ -18113,7 +18065,6 @@ all things?
      Are they not in a doubt as to the meeting of their LORD at the
 resurrection?  Doth not he encompass all things?
 ________
-CHAPTER XLII.
 ENTITLED, CONSULTATION; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      H.M.
@@ -18279,7 +18230,6 @@ into the right way,
      the way of GOD, unto whom belongeth whatever is in heaven and in earth.
 Shall not all things return unto GOD?
 ________
-CHAPTER XLIII.
 ENTITLED, THE ORNAMENTS OF GOLD; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      H.M.
@@ -18467,7 +18417,6 @@ people who believe not:
      and he answereth, Therefore turn aside from them; and say, Peace:
 hereafter shall they know their folly.
 ________
-CHAPTER XLIV.
 ENTITLED, SMOKE; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      H.M.
@@ -18562,7 +18511,6 @@ thine own tongue; to the end that they may be admonished:
      wherefore do thou wait the event; for they wait to see some misfortune
 befall thee.
 ________
-CHAPTER XLV.
 ENTITLED, THE KNEELING; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      H.M.
@@ -18663,7 +18611,6 @@ the earth;
      the LORD of all creatures: and unto him be glory in heaven and earth; for
 he is the mighty, the wise God.
 ________
-CHAPTER XLVI.
 ENTITLED, AL AHKAF; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      H.M.
@@ -18786,7 +18733,6 @@ whereon they shall see the punishment wherewith they have been threatened,
 it shall seem as though they had tarried in the world but an hour of a day.
 This is a fair warning.  Shall they perish except the people who transgress?
 ________
-CHAPTER XLVII.
 ENTITLED, MOHAMMED; REVEALED AT MEDINA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      GOD will render of none effect the works of those who believe not, and
@@ -18901,7 +18847,6 @@ niggardly.  But whoever shall be niggardly shall be niggardly towards his own
 soul: for GOD wanteth nothing, but ye are needy: and if ye turn back, he will
 substitute another people in your stead, who shall not be like unto you.
 ________
-CHAPTER XLVIII.
 ENTITLED, THE VICTORY; REVEALED AT MEDINA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      VERILY we have granted thee a manifest victory:
@@ -19010,7 +18955,6 @@ sower.  Such are the Moslems described to be: that the infidels may swell with
 indignation at them.  GOD hath promised unto such of them as believe, and do
 good works, pardon and a great reward.
 ________
-CHAPTER XLIX.
 ENTITLED, THE INNER APARTMENTS; REVEALED AT MEDINA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      O TRUE believers, anticipate not any matter in the sight of GOD and his
@@ -19073,7 +19017,6 @@ directed you to the faith; if ye speak sincerely.
      Verily GOD knoweth the secrets of heaven and earth: and GOD beholdeth
 that which ye do.
 ________
-CHAPTER L.
 ENTITLED, K; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      K.  BY the glorious Koran:
@@ -19168,7 +19111,6 @@ This will be an assembly easy for us to assemble.
 them forcibly to the faith. Wherefore warn, by the Koran, him who feareth
 my threatening.
 ________
-CHAPTER LI.
 ENTITLED, THE DISPERSING; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      BY the winds dispersing and scattering the dust;
@@ -19267,7 +19209,6 @@ not wish the same to be hastened.
 60     Woe, therefore, to the unbelievers, because of their day with which they
 are threatened!
 ________
-CHAPTER LII.
 ENTITLED, THE MOUNTAIN; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      BY the mountain of Sinai;
@@ -19354,7 +19295,6 @@ up;
      and praise him in the night-season, and when the stars begin to
 disappear.
 ________
-CHAPTER LIII.
 ENTITLED, THE STAR; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      BY the star, when it setteth;
@@ -19442,7 +19382,6 @@ question?
      spending your time in idle diversions?
      But rather worship GOD, and serve him.
 ________
-CHAPTER LIV.
 ENTITLED, THE MOON; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      THE hour of judgment approacheth; and the moon hath been split in
@@ -19540,7 +19479,6 @@ table.
      Moreover the pious shall dwell among gardens and rivers,
      in the assembly of truth, in the presence of a most potent king.
 ________
-CHAPTER LV.
 ENTITLED, THE MERCIFUL; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      THE Merciful
@@ -19638,7 +19576,6 @@ beautiful carpets.
      Which, therefore, of your LORD'S benefits will ye ungratefully deny?
      Blessed be the name of thy LORD, possessed of glory and honour!
 ________
-CHAPTER LVI.
 ENTITLED, THE INEVITABLE; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      WHEN the inevitable day of judgment shall suddenly come,
@@ -19760,7 +19697,6 @@ astray,
      Verily this is a certain truth.
      Wherefore praise the name of thy LORD, the great God.
 ________
-CHAPTER LVII.
 ENTITLED, IRON; REVEALED AT MECCA, OR AT MEDINA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      WHATEVER is in heaven and earth singeth praise unto GOD; and he is mighty
@@ -19873,7 +19809,6 @@ power over any of the favours of GOD, and that good is in the hand of GOD; he
 bestoweth the same on whom he pleaseth; for GOD is endued with great
 beneficence.
 ________
-CHAPTER LVIII.
 ENTITLED, SHE WHO DISPUTED; REVEALED AT MEDINA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      NOW hath GOD heard the speech of her who disputed with thee concerning
@@ -19964,7 +19899,6 @@ remain therein forever.  GOD is well pleased in them; and they are well
 pleased in him.  These are the party of GOD: and shall not the party of
 GOD prosper?
 ________
-CHAPTER LIX.
 ENTITLED, THE EMIGRATION; REVEALED AT MEDINA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      WHATEVER is in heaven and earth celebrateth the praise of GOD: and he is
@@ -20048,7 +19982,6 @@ Far be GOD exalted above the idols which they associate with him!
 names.  Whatever is in heaven and in earth praiseth him: and he is the
 Mighty, the Wise.
 ________
-CHAPTER LX.
 ENTITLED, SHE WHO IS TRIED; REVEALED AT MEDINA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      O TRUE believers, take not my enemy and your enemy for your friends,
@@ -20115,7 +20048,6 @@ merciful.
 GOD is incensed; they despair of the life to come, as the infidels despair
 of the resurrection of those who dwell in the graves.
 ________
-CHAPTER LXI.
 ENTITLED, BATTLE-ARRAY; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      WHATEVER is in heaven and in earth celebrateth the praise of GOD; for he
@@ -20157,7 +20089,6 @@ answered, We will be the assistants of GOD.  So a part of the children of
 Israel believed, and a part believed not: but we strengthened those who
 believed, above their enemy; wherefore they became victorious over them.
 ________
-CHAPTER LXII.
 ENTITLED, THE ASSEMBLY; REVEALED AT MEDINA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      WHATEVER is in heaven and earth praiseth GOD; the King, the Holy, the
@@ -20192,7 +20123,6 @@ that ye may prosper.
 leave thee standing up in the pulpit.  Say, The reward which is with GOD is
 better than any sport or merchandise: and GOD is the best provider.
 ________
-CHAPTER LXIII.
 ENTITLED, THE HYPOCRITES; REVEALED AT MEDINA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      WHEN the hypocrites come unto thee, they say, We bear witness that thou
@@ -20229,7 +20159,6 @@ short term: that I may give alms, and become one of the righteous?
      For GOD will by no means grant further respite to a soul, when its
 determined time is come: and GOD is fully apprised of that which ye do.
 ________
-CHAPTER LXIV.
 ENTITLED, MUTUAL DECEIT; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      WHATEVER is in heaven and earth celebrateth the praises of GOD: his is
@@ -20280,7 +20209,6 @@ of his own soul, they shall prosper.
 and will forgive you: for GOD is grateful, and long-suffering,
      knowing both what is hidden, and what is divulged; the Mighty, the Wise.
 ________
-CHAPTER LXV.
 ENTITLED, DIVORCE; REVEALED AT MEDINA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      O PROPHET, when ye divorce women, put them away at their appointed term;
@@ -20338,7 +20266,6 @@ of the earth: the divine command descendeth between them; that ye may know
 that GOD is omnipotent, and that GOD comprehendeth all things by his
 knowledge.
 ________
-CHAPTER LXVI.
 ENTITLED, PROHIBITION; REVEALED AT MEDINA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      O PROPHET, why holdest thou that to be prohibited which GOD hath allowed
@@ -20386,7 +20313,6 @@ deliver me from Pharaoh and his doings, and deliver me from the unjust people:
 whose womb we breathed of our spirit, and who believed in the words of her
 LORD, and his scriptures, and was a devout and obedient person.
 ________
-CHAPTER LXVII.
 ENTITLED, THE KINGDOM; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      BLESSED be he in whose hand is the kingdom, for he is almighty!
@@ -20455,7 +20381,6 @@ trust.  Ye shall hereafter know who is in a manifest error.
 30     Say, What think ye?  If your water be in the morning swallowed up by the
 earth, who will give you clear and running water?
 ________
-CHAPTER LXVIII.
 ENTITLED, THE PEN; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      N.  BY the pen, and what they write,
@@ -20539,7 +20464,6 @@ malicious looks, when they hear the admonition of the Koran; and they say, He
 is certainly distracted:
      but it is no other than an admonition unto all creatures.
 ________
-CHAPTER LXIX.
 ENTITLED, THE INFALLIBLE; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      THE infallible!
@@ -20613,7 +20537,6 @@ infidels;
      for it is the truth of a certainty.
      Wherefore praise the name of thy LORD, the great God.
 ________
-CHAPTER LXX.
 ENTITLED, THE STEPS; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      ONE demanded and called for vengeance to fall
@@ -20672,7 +20595,6 @@ though they were troops hastening to their standard:
      their looks shall be downcast; ignominy shall attend them.  This is the
 day with which they have been threatened.
 ________
-CHAPTER LXXI.
 ENTITLED, NOAH; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      VERILY we sent Noah unto his people, saying, Warn thy people, before a
@@ -20722,7 +20644,6 @@ none but a wicked and unbelieving offspring.
 house, being a true believer, and the true believers of both sexes; and add
 unto the unjust doers nothing but destruction.
 ________
-CHAPTER LXXII.
 ENTITLED, THE GENII; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      SAY, It hath been revealed unto me that a company of genii attentively
@@ -20789,7 +20710,6 @@ angels to march before him, and behind him;
      that he may know that they have executed the commissions of their LORD;
 he comprehendeth whatever is with them; and counteth all things by number.
 ________
-CHAPTER LXXIII.
 ENTITLED, THE WRAPPED UP; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      O THOU wrapped up,
@@ -20840,7 +20760,6 @@ ye shall find the same with GOD.  This will be better, and will merit a
 greater reward.  And ask GOD forgiveness; for GOD is ready to forgive, and
 merciful.
 ________
-CHAPTER LXXIV.
 ENTITLED, THE COVERED; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      O THOU covered,
@@ -20917,7 +20836,6 @@ delivered to him from God.
      but they shall not be warned, unless GOD shall please.  He is worthy to
 be feared; and he is inclined to forgiveness.
 ________
-CHAPTER LXXV.
 ENTITLED, THE RESURRECTION; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      VERILY I swear by the day of resurrection;
@@ -20969,7 +20887,6 @@ fashioned him with just proportion;
      and made of him two sexes, the male and the female.
 40     Is not he who hath done this able to quicken the dead?
 ________
-CHAPTER LXXVI.
 ENTITLED, MAN; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      DID there not pass over man a long space of time; during which he was a
@@ -21032,7 +20949,6 @@ LORD:
      He leadeth whom he pleaseth into his mercy; but for the unjust hath he
 prepared a grievous punishment.
 ________
-CHAPTER LXXVII.
 ENTITLED, THOSE WHICH ARE SENT; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      BY the angels which are sent by God, following one another in a continual
@@ -21098,7 +21014,6 @@ while: verily ye are wicked men.
      Woe be, on that day, unto those who accused the prophets of imposture!
 50     In what new revelation will they believe, after this.
 ________
-CHAPTER LXXVIII.
 ENTITLED, THE NEWS; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      CONCERNING what do the unbelievers ask questions of one another?
@@ -21153,7 +21068,6 @@ unto his LORD.
      the day whereon a man shall behold the good or evil deeds which his hands
 have sent before him; and the unbeliever shall say, Would to GOD I were dust!
 ________
-CHAPTER LXXIX.
 ENTITLED, THOSE WHO TEAR FORTH; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      BY the angels who tear forth the souls of some with violence;
@@ -21213,7 +21127,6 @@ thereof?
 they had not tarried in the world longer than an evening, or a morning
 thereof.
 ________
-CHAPTER LXXX.
 ENTITLED, HE FROWNED; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      THE prophet frowned, and turned aside,
@@ -21261,7 +21174,6 @@ to employ his thoughts.
      darkness shall cover them.
      These are the unbelievers, the wicked.
 ________
-CHAPTER LXXXI.
 ENTITLED, THE FOLDING UP; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      WHEN the sun shall be folded up;
@@ -21295,7 +21207,6 @@ possessor of the throne,
      unto him among you who shall be willing to walk uprightly:
      but ye shall not will, unless GOD willeth, the LORD of all creatures.
 ________
-CHAPTER LXXXII.
 ENTITLED, THE CLEAVING IN SUNDER; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      WHEN the heaven shall be cloven in sunder;
@@ -21319,7 +21230,6 @@ IN THE NAME OF THE MOST MERCIFUL GOD.
      It is a day whereon one soul shall not be able to obtain anything in
 behalf of another soul: and the command, on that day, shall be GOD'S.
 ________
-CHAPTER LXXXIII.
 ENTITLED, THOSE WHO GIVE SHORT MEASURE OR WEIGHT; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      WOE be unto those who give short measure or weight:
@@ -21367,7 +21277,6 @@ infidels to scorn:
      lying on couches they shall look down upon them in hell.
      Shall not the infidels be rewarded for that which they have done?
 ________
-CHAPTER LXXXIV.
 ENTITLED, THE RENDING IN SUNDER; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      WHEN the heaven shall be rent in sunder,
@@ -21398,7 +21307,6 @@ meet him.
      except those who believe and do good works: for them is prepared a never-
 failing reward.
 ________
-CHAPTER LXXXV.
 ENTITLED, THE CELESTIAL SIGNS; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      BY the heaven adorned with signs;
@@ -21430,7 +21338,6 @@ falsehood:
      Verily that which they reject is a glorious Koran;
      the original whereof is written in a table kept in heaven.
 ________
-CHAPTER LXXXVI.
 ENTITLED, THE STAR WHICH APPEARED BY NIGHT; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      BY the heaven, and that which appeareth by night:
@@ -21452,7 +21359,6 @@ night is?
      but I will lay a plot for their ruin.
      Wherefore, O prophet, bear with the unbelievers: let them alone a while.
 ________
-CHAPTER LXXXVII.
 ENTITLED, THE MOST HIGH; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      PRAISE the name of thy LORD, the most high;
@@ -21479,7 +21385,6 @@ them.
      Verily this is written in the ancient books,
      the books of Abraham and Moses.
 ________
-CHAPTER LXXXVIII.
 ENTITLED, THE OVERWHELMING; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      HATH the news of the overwhelming day of judgment reached thee?
@@ -21509,7 +21414,6 @@ IN THE NAME OF THE MOST MERCIFUL GOD.
      Verily unto us shall they return:
      then shall it be our part to bring them to account.
 ________
-CHAPTER LXXXIX.
 ENTITLED, THE DAYBREAK; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      BY the daybreak,
@@ -21551,7 +21455,6 @@ unto God:
      enter among my servants;
 30     and enter my paradise.
 ________
-CHAPTER XC.
 ENTITLED, THE TERRITORY; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      I SWEAR by this territory,
@@ -21577,7 +21480,6 @@ perseverance unto each other, and recommend mercy unto each other;
 the left hand:
 20     above them shall be arched fire.
 ________
-CHAPTER XCI.
 ENTITLED, THE SUN; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      BY the Sun, and its rising brightness;
@@ -21601,7 +21503,6 @@ LORD destroyed them, for their crime, and made their punishment equal unto
 them all:
      and he feareth not the issue thereof.
 ________
-CHAPTER XCII.
 ENTITLED, THE NIGHT; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      BY the night, when it covereth all things with darkness;
@@ -21629,7 +21530,6 @@ from the same;
 20     but who bestoweth the same for the sake of his LORD, the most High,
      and hereafter he shall be well satisfied with his reward.
 ________
-CHAPTER XCIII.
 ENTITLED, THE BRIGHTNESS; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      BY the brightness of the morning;
@@ -21646,7 +21546,6 @@ into the truth?
 10     neither repulse the beggar:
      but declare the goodness of thy LORD.
 ________
-CHAPTER XCIV.
 ENTITLED, HAVE WE NOT OPENED; REVEALED AT MECCA
 IN THE NAME OF THE MOST MERCIFUL GOD.
      HAVE we not opened thy breast;
@@ -21659,7 +21558,6 @@ IN THE NAME OF THE MOST MERCIFUL GOD.
 for his favours;
      and make thy supplication unto thy LORD.
 ________
-CHAPTER XCV.
 ENTITLED, THE FIG; WHERE IT WAS REVEALED IS DISPUTED.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      BY the fig, and the olive;
@@ -21673,7 +21571,6 @@ an endless reward.
 this?
      Is not GOD the most wise judge?
 ________
-CHAPTER XCVI.
 ENTITLED, CONGEALED BLOOD; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      READ, in the name of thy LORD, who hath created all things;
@@ -21698,7 +21595,6 @@ turn his back?
      Assuredly.  Obey him not: but continue to adore God; and draw nigh unto
 him.
 ________
-CHAPTER XCVII.
 ENTITLED, AL KADR; WHERE IT WAS REVEALED IS DISPUTED.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      VERILY we sent down the Koran in the night of al Kadr.
@@ -21709,7 +21605,6 @@ is?
 permission of their LORD, with his decrees concerning every matter.
      It is peace until the rising of the morn.
 ________
-CHAPTER XCVIII.
 ENTITLED, THE EVIDENCE; WHERE IT WAS REVEALED IS DISPUTED.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      THE unbelievers among those to whom the scriptures were given, and among
@@ -21730,7 +21625,6 @@ which rivers flow; they shall remain therein forever.  GOD will be well pleased 
 them; and they shall be well pleased in him.  This is prepared for him who shall
 fear his LORD.
 ________
-CHAPTER XCIX.
 ENTITLED, THE EARTHQUAKE; WHERE IT WAS REVEALED IS DISPUTED.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      WHEN the earth shall be shaken by an earthquake;
@@ -21745,7 +21639,6 @@ behold the same.
      And whoever shall have wrought evil of the weight of an ant, shall behold
 the same.
 ________
-CHAPTER C.
 ENTITLED, THE WAR-HORSES WHICH RUN SWIFTLY; WHERE IT WAS REVEALED IS DISPUTED.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      BY the war-horses which run swiftly to the battle, with a panting noise;
@@ -21763,7 +21656,6 @@ taken forth,
 10     and that which is in men's breasts shall be brought to light,
      that their LORD will, on that day, be fully informed concerning them?
 ________
-CHAPTER CI.
 ENTITLED, THE STRIKING; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      THE striking!
@@ -21779,7 +21671,6 @@ by the wind.
 10     What shall make thee to understand how frightful the pit of hell is?
      It is a burning fire.
 ________
-CHAPTER CII.
 ENTITLED, THE EMULOUS DESIRE OF MULTIPLYING; WHERE IT WAS REVEALED IS
 DISPUTED.
 IN THE NAME OF THE MOST MERCIFUL GOD.
@@ -21795,7 +21686,6 @@ knowledge, ye would not act thus.
      Then shall ye be examined, on that day, concerning the pleasures with
 which ye have amused yourselves in this life.
 ________
-CHAPTER CIII.
 ENTITLED, THE AFTERNOON; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      BY the afternoon;
@@ -21803,7 +21693,6 @@ IN THE NAME OF THE MOST MERCIFUL GOD.
      except those who believe, and do that which is right; and who mutually
 recommend the truth, and mutually recommend perseverance unto each other.
 ________
-CHAPTER CIV.
 ENTITLED, THE SLANDERER; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      WOE unto every slanderer, and backbiter:
@@ -21816,7 +21705,6 @@ IN THE NAME OF THE MOST MERCIFUL GOD.
      Verily it shall be as an arched vault above them
      on columns of vast extent.
 ________
-CHAPTER CV.
 ENTITLED, THE ELEPHANT; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      HAST thou not seen how thy LORD dealt with the masters of the elephant?
@@ -21826,7 +21714,6 @@ error;
      which casts down upon them stones of baked clay;
      and render them like the leaves of corn eaten by cattle?
 ________
-CHAPTER CVI.
 ENTITLED, KOREISH; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      FOR the uniting of the tribe of Koreish;
@@ -21836,7 +21723,6 @@ winter and summer;
      who supplieth them with food against hunger,
      and hath rendered them secure from fear.
 ________
-CHAPTER CVII.
 ENTITLED, NECESSARIES; WHERE IT WAS REVEALED IS DISPUTED.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      WHAT thinkest thou of him who denieth the future judgment as a falsehood?
@@ -21847,14 +21733,12 @@ IN THE NAME OF THE MOST MERCIFUL GOD.
      who play the hypocrites,
      and deny necessaries to the needy.
 ________
-CHAPTER CVIII.
 ENTITLED, AL CAWTHAR; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      VERILY we have given thee al Cawthar.
      Wherefore pray unto thy LORD, and slay the victims.
      Verily he who hateth thee shall be childless.
 ________
-CHAPTER CIX.
 ENTITLED, THE UNBELIEVERS; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      SAY: O unbelievers,
@@ -21864,7 +21748,6 @@ IN THE NAME OF THE MOST MERCIFUL GOD.
      neither do ye worship that which I worship.
      Ye have your religion, and I my religion.
 ________
-CHAPTER CX.
 ENTITLED, ASSISTANCE; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      WHEN the assistance of GOD shall come, and the victory;
@@ -21872,7 +21755,6 @@ IN THE NAME OF THE MOST MERCIFUL GOD.
      celebrate the praise of thy LORD, and ask pardon of him; for he is
 inclined to forgive.
 ________
-CHAPTER CXI.
 ENTITLED, ABU LAHEB; REVEALED AT MECCA.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      THE hands of Abu Laheb shall perish, and he shall perish.
@@ -21881,7 +21763,6 @@ IN THE NAME OF THE MOST MERCIFUL GOD.
      and his wife also, bearing wood,
      having on her neck a cord of twisted fibres of a palm-tree.
 ________
-CHAPTER CXII.
 ENTITLED, THE DECLARATION OF GOD'S UNITY;
 WHERE IT WAS REVEALED IS DISPUTED.
 IN THE NAME OF THE MOST MERCIFUL GOD.
@@ -21890,7 +21771,6 @@ IN THE NAME OF THE MOST MERCIFUL GOD.
      be begetteth not, neither is he begotten:
      and there is not any one like unto him.
 ________
-CHAPTER CXIII.
 ENTITLED, THE DAYBREAK; WHERE IT WAS REVEALED IS DISPUTED.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      SAY, I fly for refuge unto the LORD of the daybreak,
@@ -21900,7 +21780,6 @@ created;
      and from the mischief of women blowing on knots;
      and from the mischief of the envious, when he envieth.
 ________
-CHAPTER CXIV.
 ENTITLED, MEN; WHERE IT WAS REVEALED IS DISPUTED.
 IN THE NAME OF THE MOST MERCIFUL GOD.
      SAY, I fly for refuge unto the LORD of men,
