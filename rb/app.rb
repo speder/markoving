@@ -4,16 +4,20 @@ require 'open-uri'
 require 'nokogiri'
 
 class MarkovApp
+  # Rack API
   def call(env)
     req = Rack::Request.new(env)
 
-    if req.params['texts'] # initialize list of texts
+    if req.params['texts']
+      # initialize list of texts
       data = JSON.dump({ :texts => texts })
     else
+      # fetch chunk of specified text
       data = JSON.dump({ :chunk => text(req.params) })
     end
 
     if req.params['callback']
+      # jsonp
       data = "#{req.params['callback']}(#{data})"
     end
 
@@ -21,31 +25,42 @@ class MarkovApp
     [200, {'Content-Type' => 'application/javascript; charset=utf-8'}, body]
   end
 
-  # attempt to initialize random text generator with
-  #   1. specified text file
-  #   2. pasted text
-  #   3. url
-  #   or default
   def create_generator(options = {})
-    opts = {}
+    source = nil
 
-    if options['text']
-      if texts.include?(options['text'])
-        opts[:source_material] = File.read("txt/#{options['text']}.txt")
-      end
-    elsif options['paste']
-      opts[:source_material] = options['paste']
+    # initialize random lang generator from:
+    if options['paste']
+      # pasted text
+      source = options['paste']
     elsif options['url']
+      # url
       html = open(options['url'])
-      opts[:source_material] = Nokogiri::HTML(html).text
+      source = Nokogiri::HTML(html).text
+    elsif options['text']
+      # specified text
+      if texts.include?(options['text'])
+        source = source_file(options['text'])
+      end
     end
 
-    LiterateRandomizer.create(opts)
+    # random text file
+    source ||= random_source_file
+
+    LiterateRandomizer.create(:source_material => source)
   end
 
   def generator(options = {})
     @generator = nil if options['source']
     @generator ||= create_generator(options)
+  end
+
+  def random_source_file
+    name = texts[rand(texts.size - 1)]
+    source_file(name)
+  end
+
+  def source_file(name)
+    File.read("txt/#{name}.txt")
   end
 
   CHUNKS = %w(word sentence paragraph paragraphs)

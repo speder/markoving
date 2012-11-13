@@ -25,6 +25,9 @@ function MarkovController($scope, $resource) {
       $scope.random = response.chunk;
       $scope.busy = false;
       $scope.source = false;
+      $scope.text = '';
+      $scope.paste = '';
+      $scope.url = '';
     });
   };
 
