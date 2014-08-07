@@ -1,3 +1,4 @@
+require 'faker'
 require 'json'
 require 'literate_randomizer'
 require 'open-uri'
@@ -10,10 +11,10 @@ class MarkovApp
 
     if req.params['texts']
       # initialize list of texts
-      data = JSON.dump({ :texts => texts })
+      data = JSON.dump({ :texts => texts, :bs => bs })
     else
       # fetch chunk of specified text
-      data = JSON.dump({ :chunk => text(req.params) })
+      data = JSON.dump({ :chunk => text(req.params), :bs => bs })
     end
 
     if req.params['callback']
@@ -72,5 +73,9 @@ class MarkovApp
 
   def texts
     @texts ||= Dir.new('txt').entries.select{ |e| e =~ /.txt$/ }.map{ |e| e.gsub(/.txt/, '') }.sort
+  end
+
+  def bs
+    "#{Faker::Hacker.say_something_smart} We #{rand(2).odd? ? 'must immediately' : 'need to'} #{Faker::Company.bs} and #{Faker::Hacker.verb} #{Faker::Company.catch_phrase.downcase} #{rand(2).odd? ? 'into' : 'for'} the #{Faker::Hacker.adjective} #{Faker::Hacker.send(rand(2).odd? ? :abbreviation : :noun)}!"
   end
 end

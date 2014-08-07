@@ -28,6 +28,7 @@ function MarkovController($scope, $resource) {
       $scope.text = '';
       $scope.paste = '';
       $scope.url = '';
+      $scope.bs = response.bs;
     });
   };
 
